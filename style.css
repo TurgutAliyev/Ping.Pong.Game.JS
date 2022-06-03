@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#esas{
+    display: flex;
+}
+
+#main{
+    margin-left: 100px;
+    margin-top: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    text-align: center;
+    align-items: center;
+    padding-top: 35px;
+    border-radius: 10px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#vaxt1{
+    margin-bottom: 50px;
+}
+
+#general{
+    margin-left: 90px;
+    margin-top: 60px;
+    width: 600px;
+    height: 500px;
+    border: 1px dashed black;
+    position: relative;
+    border-radius: 8px;
+    text-align: center;
+    align-items: center;
+    font-size: x-large;
+    font-weight: 700;
+    padding-top: 200px;
+}
+
+#top{
+    width: 25px;
+    height: 25px;
+    background-color: brown;
+    border-radius: 50%;
+    position: absolute;
+}
+
+
+#pille{
+    width: 100px;
+    height: 20px;
+    background-color: #333;
+    border-radius: 20px;
+    position: absolute;
+    bottom: -20px;
+}
+
+#pille1{
+    width: 100px;
+    height: 20px;
+    background-color: #333;
+    border-radius: 20px;
+    position: absolute;
+    top: -20px;
+}
